@@ -2,8 +2,8 @@
 public class moritayuya {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
+		System.out.println("中二病でも恋がしたい");
+		System.out.println("下ネタという概念が存在しない退屈な世界");
 	}
 
 }
